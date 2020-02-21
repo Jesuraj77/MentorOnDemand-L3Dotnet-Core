@@ -1,0 +1,16 @@
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.1\Mentor.Entities.deps.json
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.1\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.1\Mentor.Entities.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.1\Mentor.Entities.deps.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.1\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.1\Mentor.Entities.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.1\Mentor.Entities.pdb

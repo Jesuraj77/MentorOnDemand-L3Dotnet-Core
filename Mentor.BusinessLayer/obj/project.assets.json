@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Mentor.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Mentor.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mentor.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mentor.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Mentor.Entities/Mentor.Entities.csproj",
+      "msbuildProject": "../Mentor.Entities/Mentor.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Mentor.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IIHT\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\IIHT\\Desktop\\.Net IIHT - Copy\\L3-MentorOnDemand\\.Net-core\\NetCoreMentor\\Mentor.BusinessLayer\\Mentor.BusinessLayer.csproj",
+      "projectName": "Mentor.BusinessLayer",
+      "projectPath": "C:\\Users\\IIHT\\Desktop\\.Net IIHT - Copy\\L3-MentorOnDemand\\.Net-core\\NetCoreMentor\\Mentor.BusinessLayer\\Mentor.BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\IIHT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IIHT\\Desktop\\.Net IIHT - Copy\\L3-MentorOnDemand\\.Net-core\\NetCoreMentor\\Mentor.BusinessLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\IIHT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {
+            "C:\\Users\\IIHT\\Desktop\\.Net IIHT - Copy\\L3-MentorOnDemand\\.Net-core\\NetCoreMentor\\Mentor.Entities\\Mentor.Entities.csproj": {
+              "projectPath": "C:\\Users\\IIHT\\Desktop\\.Net IIHT - Copy\\L3-MentorOnDemand\\.Net-core\\NetCoreMentor\\Mentor.Entities\\Mentor.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.BusinessLayer.deps.json
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.BusinessLayer.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.BusinessLayer.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.Entities.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.csproj.CopyComplete
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.BusinessLayer.deps.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.BusinessLayer.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.BusinessLayer.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\bin\Debug\netstandard2.1\Mentor.Entities.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.csproj.CopyComplete
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\Mentor.BusinessLayer\obj\Debug\netstandard2.1\Mentor.BusinessLayer.pdb

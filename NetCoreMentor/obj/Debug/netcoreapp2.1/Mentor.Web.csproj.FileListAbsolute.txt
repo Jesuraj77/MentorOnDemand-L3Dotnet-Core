@@ -1,0 +1,63 @@
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorAssemblyInfo.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorAssemblyInfo.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.deps.json
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.runtimeconfig.json
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.runtimeconfig.dev.json
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.Views.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.Views.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.TagHelpers.input.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.TagHelpers.output.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorCoreGenerate.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorTargetAssemblyInfo.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorTargetAssemblyInfo.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.Views.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.csproj.CopyComplete
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.deps.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.runtimeconfig.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.runtimeconfig.dev.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.Views.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\bin\Debug\netcoreapp2.1\Mentor.Web.Views.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorAssemblyInfo.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorAssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.TagHelpers.input.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.TagHelpers.output.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorCoreGenerate.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorTargetAssemblyInfo.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.RazorTargetAssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.Views.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L3-MentorOnDemand\.Net-core\NetCoreMentor\NetCoreMentor\obj\Debug\netcoreapp2.1\Mentor.Web.csproj.CopyComplete

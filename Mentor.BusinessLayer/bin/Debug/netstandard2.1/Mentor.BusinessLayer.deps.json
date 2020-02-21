@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Mentor.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "Mentor.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Mentor.BusinessLayer.dll": {}
+        }
+      },
+      "Mentor.Entities/1.0.0": {
+        "runtime": {
+          "Mentor.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mentor.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mentor.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

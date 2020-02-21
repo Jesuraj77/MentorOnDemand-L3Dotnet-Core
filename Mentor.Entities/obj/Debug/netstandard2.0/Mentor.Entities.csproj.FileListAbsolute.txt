@@ -1,0 +1,8 @@
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.0\Mentor.Entities.deps.json
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.0\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\bin\Debug\netstandard2.0\Mentor.Entities.pdb
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.0\Mentor.Entities.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.0\Mentor.Entities.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.0\Mentor.Entities.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.0\Mentor.Entities.dll
+C:\Users\IIHT\Desktop\NetCoreMentor\Mentor.Entities\obj\Debug\netstandard2.0\Mentor.Entities.pdb
